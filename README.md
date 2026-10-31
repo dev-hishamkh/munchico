@@ -1,1 +1,1 @@
-munchico.com.tr
+https://munchico.com.tr
